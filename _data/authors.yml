@@ -1,23 +1,23 @@
 Caleb Curry:
-    name: 'Caleb Curry'
+    name: 'Jonathan Jackson'
     bio: 'Through continually writing code and teaching software, I’ve built strong skills in software and entrepreneurship. With every role, I bring more than the ability to write code. I bring the ability to turn software into a valuable tool that anyone can use and understand.'
     avatar: '/assets/images/myface.jpeg'
     links:
         - label: 'Email'
           icon: 'fas fa-fw fa-envelope-square'
-          url: 'mailto:caleb@calebcurry.com'
+          url: 'mailto:imjonathanjackson@gmail.com'
         - label: 'GitHub'
           icon: 'fas fa-fw fa-link'
-          url: 'https://github.com/calebcurry'
+          url: 'https://github.com/imjonathanjackson'
         - label: 'YouTube'
           icon: 'fas fa-fw fa-link'
-          url: 'https://www.youtube.com/c/CalebTheVideoMaker2'
+          url: 'https://www.youtube.com/@jonathanjackson1'
         - label: 'LinkedIn'
           icon: 'fas fa-fw fa-link'
-          url: 'https://www.linkedin.com/in/calebcurry/'
-        - label: 'Twitter'
-          icon: 'fas fa-fw fa-link'
-          url: 'https://twitter.com/CalebCurry'
+          url: 'https://www.linkedin.com/in/jonathan-jackson1/'
+        #- label: 'Twitter'
+        # icon: 'fas fa-fw fa-link'
+        #  url: 'https://twitter.com/CalebCurry'
 
         #- label: "Website"
         #  icon: "fas fa-fw fa-link"
