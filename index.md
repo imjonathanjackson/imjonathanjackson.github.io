@@ -1,11 +1,11 @@
 ---
-title: "Hi, I'm Caleb Curry"
+title: "Hi, I'm Jonathan Jackson"
 layout: 'single'
 toc: true
 toc_sticky: true
 share: false
 author_profile: true
-author: Caleb Curry
+author: Jonathan Jackson
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
@@ -16,7 +16,7 @@ author: Caleb Curry
 
 I'm most experienced in full stack software engineering. I have experience with both frontend and backend Using Node.js, Django, and React. I prioritize writing code that is both maintainable and performant. I've deployed apps to AWS and am comfortable with Docker, CICD, and microservice architectures.
 
-### Protocol Engineer
+### Quality Assurance Engineer
 
 I'm experienced in building distributed systems using C++, Go, and Rust. With a passion for decentralization I would be a solid addition to a protocol engineering team. With a background in blockchain and zero knowledge proofs I can confidently build protocols or private dApps.
 
@@ -61,6 +61,6 @@ I have a good understanding of Databases (**SQL** and **NoSQL**) and I'm comfort
 
 ### Collaboration
 
-I am able to build software in a team environment with **GitHub**, branches, and pull requests. This includes open source software such as [this portfolio website](https://github.com/codebreakthrough-com/comdebreakthrough-com.io) built with **Jeckyll** and hosted on **GitHub Pages**. Additionally, I have a good understanding of **Markdown** and technical documentation engines such as **Docusaurus** and **GitBook**. I find it very important to build well documented and maintainable software.
+I am able to build software in a team environment with **GitHub**, branches, and pull requests. This includes open source software such as [this portfolio website](https://github.com/imjonathanjackson/imjonathanjackson.io) built with **Jeckyll** and hosted on **GitHub Pages**. Additionally, I have a good understanding of **Markdown** and technical documentation engines such as **Docusaurus** and **GitBook**. I find it very important to build well documented and maintainable software.
 
 I am familiar with Agile and comfortable working in a team environment with other highly motivated engineers.
