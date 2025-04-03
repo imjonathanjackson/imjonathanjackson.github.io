@@ -61,6 +61,6 @@ I have a good understanding of Databases (**SQL** and **NoSQL**) and I'm comfort
 
 ### Collaboration
 
-I am able to build software in a team environment with **GitHub**, branches, and pull requests. This includes open source software such as [this portfolio website](https://github.com/imjonathanjackson/imjonathanjackson.io) built with **Jeckyll** and hosted on **GitHub Pages**. Additionally, I have a good understanding of **Markdown** and technical documentation engines such as **Docusaurus** and **GitBook**. I find it very important to build well documented and maintainable software.
+I am able to build software in a team environment with **GitHub**, branches, and pull requests. This includes open source software such as [this portfolio website](https://github.com/imjonathanjackson/imjonathanjackson.github.io) built with **Jeckyll** and hosted on **GitHub Pages**. Additionally, I have a good understanding of **Markdown** and technical documentation engines such as **Docusaurus** and **GitBook**. I find it very important to build well documented and maintainable software.
 
 I am familiar with Agile and comfortable working in a team environment with other highly motivated engineers.
