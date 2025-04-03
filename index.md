@@ -20,6 +20,15 @@ I'm most experienced in full stack software engineering. I have experience with 
 
 I'm experienced in building distributed systems using C++, Go, and Rust. With a passion for decentralization I would be a solid addition to a protocol engineering team. With a background in blockchain and zero knowledge proofs I can confidently build protocols or private dApps.
 
+### Equity Research Analyst
+I'm experienced in contributing to equity research reports at **Wall Street Oasis (WSO)**, where I coauthored four in-depth, 20+ page reports on major companies, including **Tesla**, **Phillip Morris**, **Enphase Inc.**, and **Sofi**.  
+
+In these reports, I spearheaded the **Financial Analysis and Valuation** sections, taking responsibility for constructing detailed **Discounted Cash Flow (DCF)**, **Trading Comparables (Comps)**, and **3-statement models**.  
+
+Additionally, I synthesized key findings, published them, and effectively communicated the analysis to a wide, diverse audience of over **150,000 subscribers** on **WSO Alpha**.
+
+These premium, paid reports can be found at: [WSO Alpha](https://www.wallstreetoasis.com/wso-alpha).
+
 ## I'm Currently Working on...
 
 ### DinkyLinky URL Shortener
