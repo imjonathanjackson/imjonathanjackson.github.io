@@ -12,16 +12,16 @@ author: Jonathan Jackson
 
 ## Roles I'm Qualified for...
 
-### Full Stack Software Engineer
-
-I'm most experienced in full stack software engineering. I have experience with both frontend and backend Using Node.js, Django, and React. I prioritize writing code that is both maintainable and performant. I've deployed apps to AWS and am comfortable with Docker, CICD, and microservice architectures.
-
 ### Quality Assurance Engineer
 
-I'm experienced in building distributed systems using C++, Go, and Rust. With a passion for decentralization I would be a solid addition to a protocol engineering team. With a background in blockchain and zero knowledge proofs I can confidently build protocols or private dApps.
+I'm most experienced in software testing. I have experience leading multiple test teams to engage in regression testing, functional testing, end-to-end testing, performance testing, stress testing, smoke testing, A/B testing, post deployment testing, integration testing, accessibility testing, simulated live fire testing, and exploratory testing, in relation naval ship products. I have created several test suites, test plans, and test reports from scratch. I have mentored multiple teams of Software Test Engineers as well as mentored and trained Software Test Leads and other Software Test Engineers. 
+
+### Software Engineer
+
+I'm experienced in application development. I have experience with both frontend and backend Using Node.js, Django, and React. I prioritize writing code that is both maintainable and performant. I've deployed apps to AWS and am comfortable with Docker, CI/CD, and microservice architectures.
 
 ### Equity Research Analyst
-I'm experienced in contributing to equity research reports at **Wall Street Oasis (WSO)**, where I coauthored four in-depth, 20+ page reports on major companies, including **Tesla**, **Phillip Morris**, **Enphase Inc.**, and **Sofi**.  
+I'm experienced in contributing to equity research reports at **Wall Street Oasis (WSO)**, where I coauthored four in-depth, 20+ page reports on major companies, including **Tesla**, **Phillip Morris**, **Enphase Inc.**, and **SoFi**.  
 
 In these reports, I spearheaded the **Financial Analysis and Valuation** sections, taking responsibility for constructing detailed **Discounted Cash Flow (DCF)**, **Trading Comparables (Comps)**, and **3-statement models**.  
 
@@ -51,16 +51,16 @@ Previously I worked in defense contracting building full stack apps for the Air 
 
 I built performant interactive web interfaces using React components and direct drawing in HTML canvas. Application interaction events were all persisted for mission analysis and replay using rrweb.
 
-### Space Pool
+### Passenger Counter App
+I created a simple passenger counting app that is based in JavaScript. The app counts the number of passengers are coming at train station by clicking the increment button. The number can be saved to make additional counts.
 
-I was a cofounder of [Space Pool](http://pool.space), a Chia farming pool with over 30K members. The Space Pool Discord is the go-to community for any talk about the Chia cryptocurrency with 35K+ members. I am a full stack web developer using a variety of languages and tools like **React**, **Node.js**, **typescript**, and **ASP.NET**. I created a full stack cryptocurrency explorer utilizing Chia nodes, Amazon DynamoDB for storage, and Redis for rapid retrieval of coin info. I also built a cryptocurrency price **discord bot written in Python**.
-
-Space Pool was shut down early 2024. Before shutting down, Space Pool was the largest Chia pool using the centralization resistant **official pooling protocol**, and the second largest overall.
-
-<img style="padding: 10px;" src="assets/images/pool-rank.png" alt="drawing" width="500"/>  
-[source](https://miningpoolstats.stream/chia)
+My app can be found here: [Passenger Counter App](https://earnest-frangipane-3e3f56.netlify.app/)
 
 ## My Skills Include...
+
+### Application Development
+
+I have experience creating network configuration tool that provide automated configuration for various pieces of network equipment including switches, routers, and servers. I have worked on translating cisco command instructions into Java and Python code as well as developed a GUI for an application from scratch using Python and using Java to add a logging functionality to another network configuration application.
 
 ### Web Development
 
